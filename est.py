@@ -3,7 +3,7 @@
 EST - Email Spoofing Tool
 Professional Email Security Assessment Framework
 
-Author: Security Research Team
+Author: Dipto-Farabee
 Version: 2.0.1
 License: MIT
 Repository: https://github.com/Dipto-Farabee/EmailSpoofingTool
