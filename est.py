@@ -6,7 +6,7 @@ Professional Email Security Assessment Framework
 Author: Security Research Team
 Version: 2.0.1
 License: MIT
-Repository: https://github.com/your-org/EST
+Repository: https://github.com/Dipto-Farabee/EmailSpoofingTool
 
 LEGAL NOTICE:
 This tool is designed for authorized security testing, penetration testing,
@@ -42,7 +42,7 @@ import email.utils
 
 # Version and metadata
 __version__ = "2.0.1"
-__author__ = "Tech Sky - SRT"
+__author__ = "Dipto-Farabee"
 __license__ = "MIT"
 __description__ = "Professional Email Security Assessment Framework"
 
