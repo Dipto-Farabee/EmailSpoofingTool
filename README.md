@@ -71,8 +71,8 @@ EST Framework
 
 ```bash
 # Clone the repository
-git clone https://github.com/techsky-eh/EST.git
-cd EST
+git clone https://github.com/Dipto-Farabee/EmailSpoofingTool.git
+cd EmailSpoofingTool
 
 # Make installer executable
 chmod +x install.sh
