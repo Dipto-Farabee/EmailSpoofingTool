@@ -91,7 +91,7 @@ The installer will automatically:
 
 ```bash
 # Clone the repository
-git clone https://github.com/techsky-eh/EST.git
+git clone https://github.com/Dipto-Farabee/EmailSpoofingTool.git
 cd EST
 
 # Install dependencies
@@ -108,7 +108,7 @@ sudo ./install.sh
 brew install python3 telnet
 
 # Clone and install EST
-git clone https://github.com/techsky-eh/EST.git
+git clone https://github.com/Dipto-Farabee/EmailSpoofingTool.git
 cd EST
 ./install.sh
 ```
@@ -530,9 +530,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support & Contact
 
 - **Issues**: [GitHub Issues](https://github.com/techsky-eh/EST/issues)
-- **Documentation**: [Wiki](https://github.com/techsky-eh/EST/wiki)
-- **Security Reports**: contact@techskyhub.com
-- **General Questions**: contact@techskyhub.com
+- **Documentation**: [Wiki](https://github.com/Dipto-Farabee/EmailSpoofingTool/wiki)
+
 
 ### Quick Support
 
@@ -546,10 +545,10 @@ For common issues:
 
 <div align="center">
 
-**EST v2.0.1** - Professional Email Security Assessment Framework
+**EmailSpoofingTool v2.0.1** - Professional Email Security Assessment Framework
 
 Compatible with Python 3.8+ including Python 3.13+ and Kali Linux
 
-Made with ❤️ by the Tech Sky - Security Research Team
+Original Author: Tech Sky - Security Research Team
 
 </div>
